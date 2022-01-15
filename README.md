@@ -11,3 +11,5 @@ Uruchomienie :
 docker-compose -f docker-compose.dev.yml up --build
 
 Port: 80
+
+![image](https://user-images.githubusercontent.com/82586310/149635175-7e775ccf-f4fa-4d41-8b30-69ca5e8c02f5.png)
